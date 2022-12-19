@@ -33,3 +33,9 @@ hr {
 .job{
   margin-bottom: 30px;
 }
+
+@media (min-width: 600px) {
+  p{
+    font-size: 1.25rem;
+  }
+}
