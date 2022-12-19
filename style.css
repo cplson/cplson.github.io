@@ -1,1 +1,23 @@
+body {
+  background-color: #F8EEE7;
+  color: #49274A;
+  font-family: 'Merriweather', serif;
+  margin: 10%;
+}
 
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+hr {
+  width: 70%;
+  
+}
+
+.header{
+  padding-bottom: 10px;
+}
